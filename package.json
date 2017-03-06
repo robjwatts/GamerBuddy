@@ -1,0 +1,23 @@
+{
+  "name": "gamerbuddy",
+  "version": "1.0.0",
+  "description": "Find someone to game with who shares your tastes.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robjwatts/GamerBuddy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robjwatts/GamerBuddy/issues"
+  },
+  "homepage": "https://github.com/robjwatts/GamerBuddy#readme",
+  "dependencies": {
+    "path": "^0.12.7"
+  }
+}
